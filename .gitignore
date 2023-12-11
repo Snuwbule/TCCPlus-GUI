@@ -56,7 +56,7 @@ typings/
 
 # dotenv environment variables file
 .env
-
+/dist/
 /.vs
 .DS_Store
 .Thumbs.db
