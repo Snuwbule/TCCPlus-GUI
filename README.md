@@ -13,14 +13,15 @@ there's a high chance that the app you're trying to use has Binary `Info.plist` 
 - I don't like Objective C :< and I'm still new to macOS developement so I'm going to keep Swift for later.
 
 <br>
+
 # Building
 
 ##### Preperations
 
-You will need:\
-- Rust\
-- Node.JS\
-- Yarn\
+You will need:
+- Rust
+- Node.JS
+- Yarn
 
 ##### Building
 
