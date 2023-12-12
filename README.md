@@ -11,3 +11,34 @@ there's a high chance that the app you're trying to use has Binary `Info.plist` 
   
 ##### Q: Why are you using Tauri or Webview instead of swiftUI or storyboard?
 - I don't like Objective C :< and I'm still new to macOS developement so I'm going to keep Swift for later.
+
+<br>
+# Building
+##### Preperations
+You will need:
+- Rust
+- Node.JS
+- Yarn
+
+##### Building
+
+Clone this Repo somewhere and cd into it
+Install dependencies:
+```
+yarn
+```
+
+Build in Debug mode:
+```
+yarn tauri dev
+```
+
+Build in Release mode:
+```
+yarn tauri build
+```
+
+
+
+
+
