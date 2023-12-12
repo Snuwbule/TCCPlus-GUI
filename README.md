@@ -14,11 +14,13 @@ there's a high chance that the app you're trying to use has Binary `Info.plist` 
 
 <br>
 # Building
+
 ##### Preperations
-You will need:
-- Rust
-- Node.JS
-- Yarn
+
+You will need:\
+- Rust\
+- Node.JS\
+- Yarn\
 
 ##### Building
 
